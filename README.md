@@ -31,9 +31,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
 
 
-### 📫 Let's Connect
+### 📫 İletişim Adreslerim:
 
-- 📩 Email: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
+- 📩 Mail: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
 - 💼 LinkedIn: [(www.linkedin.com/in/azizcayirogluu)] 
 
 <p align="center">🚀 Her zaman öğrenmeye hazır, kendini geliştiriyor!</p>
