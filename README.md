@@ -13,7 +13,7 @@
 - 🗂️🗂 Şu anda Full Stack Web Tasarım üzerine kurslar görüyor.
 
 --
-#### 💻 Programlama Dilleri / Araçlar ve Teknolojiler
+### 💻 Programlama Dilleri / Araçlar ve Teknolojiler
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
@@ -30,7 +30,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
 
 --
-### 📨 İletişim Adreslerim:
+## 📨 İletişim Adreslerim:
 
 - 📧 Mail: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
 - 💼 LinkedIn: [(www.linkedin.com/in/azizcayirogluu)] 
