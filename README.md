@@ -27,6 +27,6 @@
 ### 📫 Let's Connect
 
 - 📩 Email: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/azizcayirogluu)  
+- 💼 [LinkedIn]: [(www.linkedin.com/in/azizcayirogluu)] 
 
 <p align="center">🚀 Her zaman öğrenmeye hazır, kendini geliştiriyor!</p>
