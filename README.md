@@ -1,6 +1,6 @@
 <h1 align="center"> Selam, Ben Aziz 👋! </h1>
 <p align="center">
-<i>Web Tasarım ve Veri Analizi teknolojileri alanında henüz deneyimi olmayan tutkulu bir öğrenciyim</i><br/>
+<i>Web Tasarım ve Veri Analizi teknolojileri alanında ilerlemek isteyen öğrenmeye açık bir öğrenciyim</i><br/>
 🎓 <b>İESU</b> Bilgisayar Programcılığı Öğrencisi
 </p>
 
