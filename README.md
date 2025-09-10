@@ -8,9 +8,9 @@
 ### 💻 Hakkımda
 
 - 🎓 Şuanda İstanbul Esenyurt Üniversitesi Bilgisayar Programcılığı Bölümünde Okuyor. Güncel GANO(3,10)
-- 💡 Henüz bir şirkette/Kuruluşta deneyim imkanı olmadı.
-- 🌍 Turkcell Geleceği Yazanlar , BTK Akademi ve Udemy üzerinden aktif olarak kurslara katılıyor ve kendini geliştiriyor.
-- 🔬 Şu anda Full Stack Web Tasarım üzerine kurslar görüyor.
+- 👨‍💻 Henüz bir şirkette/Kuruluşta deneyim imkanı olmadı.
+- 📑 Turkcell Geleceği Yazanlar , BTK Akademi ve Udemy üzerinden aktif olarak kurslara katılıyor ve kendini geliştiriyor.
+- 🗂️🗂 Şu anda Full Stack Web Tasarım üzerine kurslar görüyor.
 
 --
 #### 💻 Programlama Dilleri / Araçlar ve Teknolojiler
@@ -30,9 +30,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
 
 --
-### 📫 İletişim Adreslerim:
+### 📨 İletişim Adreslerim:
 
-- 📩 Mail: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
+- 📧 Mail: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
 - 💼 LinkedIn: [(www.linkedin.com/in/azizcayirogluu)] 
 
 <p align="center">🚀 Her zaman öğrenmeye hazır, kendini geliştiriyor!</p>
