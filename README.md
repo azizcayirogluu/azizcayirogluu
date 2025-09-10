@@ -12,8 +12,7 @@
 - 🌍 Turkcell Geleceği Yazanlar , BTK Akademi ve Udemy üzerinden aktif olarak kurslara katılıyor ve kendini geliştiriyor.
 - 🔬 Şu anda Full Stack Web Tasarım üzerine kurslar görüyor.
 
-- ### ⚙️ Tech Stack
-
+--
 #### 💻 Programlama Dilleri / Araçlar ve Teknolojiler
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
@@ -30,7 +29,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
 
-
+--
 ### 📫 İletişim Adreslerim:
 
 - 📩 Mail: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
