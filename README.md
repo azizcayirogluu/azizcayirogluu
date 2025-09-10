@@ -29,4 +29,4 @@
 - 📩 Email: [azizcayirogluu@gmail.com](mailto:berfins.4615@gmail.com)  
 - 💼 [LinkedIn](www.linkedin.com/in/azizcayirogluu)  
 
-<p align="center">🚀 Her zaman inşa ediyoruz, her zaman öğreniyoruz!</p>
+<p align="center">🚀 Her zaman öğrenmeye hazır, kendini geliştiriyor!</p>
