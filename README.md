@@ -7,10 +7,10 @@
 ---
 ### 💻 Hakkımda
 
-- 🎓 Şuanda İstanbul Esenyurt Üniversitesi Bilgisayar Programcılığı Bölümünde Okuyor. Güncel GANO(3,10)
-- 👨‍💻 Henüz bir şirkette/Kuruluşta deneyim imkanı olmadı.
-- 📑 Turkcell Geleceği Yazanlar , BTK Akademi ve Udemy üzerinden aktif olarak kurslara katılıyor ve kendini geliştiriyor.
-- 🗂 Şu anda Full Stack Web Tasarım üzerine kurslar görüyor.
+- 🎓 Şuanda İstanbul Esenyurt Üniversitesi Bilgisayar Programcılığı Bölümünde Okuyorum. Güncel GANO(3,10)
+- 👨‍💻 Henüz bir şirkette/Kuruluşta deneyim imkanım olmadı.
+- 📑 Turkcell Geleceği Yazanlar , BTK Akademi ve Udemy üzerinden aktif olarak kurslara katılıyorum ve kendimi geliştiriyorum.
+- 🗂 Şu anda Full Stack Web Tasarım ve Mobil uygulama programlama üzerine kurslar görüyorum.
 
 --
 ### 💻 Programlama Dilleri / Araçlar ve Teknolojiler
