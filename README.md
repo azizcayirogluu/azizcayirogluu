@@ -1,13 +1,13 @@
 <h1 align="center"> Selam, Ben Aziz 👋! </h1>
 <p align="center">
 <i>Web Tasarım ve Veri Analizi teknolojileri alanında ilerlemek isteyen öğrenmeye açık bir öğrenciyim</i><br/>
-🎓 <b>İESU</b> Bilgisayar Programcılığı Öğrencisi
+🎓 <b>İESU</b> Bilgisayar Programcılığı Mezunu
 </p>
 
 ---
 ### 💻 Hakkımda
 
-- 🎓 Şuanda İstanbul Esenyurt Üniversitesi Bilgisayar Programcılığı Bölümünde Okuyorum. Güncel GANO(3,37)
+- 🎓 İstanbul Esenyurt Üniversitesi Bilgisayar Programcılığı mezunuyum . GANO(3.42)
 - 👨‍💻 Henüz bir şirkette/Kuruluşta deneyim imkanım olmadı.
 - 📑 Turkcell Geleceği Yazanlar , BTK Akademi ve Udemy üzerinden aktif olarak kurslara katılıyorum ve kendimi geliştiriyorum.
 - 🗂 Şu anda Full Stack Web Tasarım ve Mobil uygulama programlama üzerine kurslar görüyorum.
